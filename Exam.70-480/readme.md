@@ -143,14 +143,14 @@
 ### Generic resources for the exam:
 
 #### Exam Prep Guides
-- [Exam Prep Guide 2015](https://channel9.msdn.com/Blogs/mcpexamprep/70-480-Programming-in-HTML5-with-JavaScript-and-CSS3?term=70-480&lang-en=true)
-- [Exam Prep Guide 2015 #2](https://channel9.msdn.com/events/Ignite/2015/BRK3918?term=70-480&lang-en=true)
+- [Exam Prep Guide 2015](https://channel9.msdn.com/Blogs/mcpexamprep/70-480-Programming-in-HTML5-with-JavaScript-and-CSS3?term=70-480&lang-en=true)  | &#9733;&#9733;&#9733;&#9733;&#9734;
+- [Exam Prep Guide 2015 #2](https://channel9.msdn.com/events/Ignite/2015/BRK3918?term=70-480&lang-en=true)  | &#9733;&#9733;&#9733;&#9734;&#9734;
 
 #### Learning plan
-- [Barbarian meets coding](https://www.barbarianmeetscoding.com/blog/2015/03/15/on-how-i-passed-the-70-480-certification-exam/)
+- [Barbarian meets coding](https://www.barbarianmeetscoding.com/blog/2015/03/15/on-how-i-passed-the-70-480-certification-exam/) | &#9733;&#9733;&#9733;&#9733;&#9733;
 
 #### Microsoft Learn
-[Build a simple website using HTML, CSS, and Javascript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
+[Build a simple website using HTML, CSS, and Javascript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)  | &#9733;&#9734;&#9734;&#9734;&#9734;
 
 #### Microsoft Virtual Academy material (Lookout they are slowly getting replaced by Microsoft learn)
 - [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/html5-css3-fundamentals-development-for-absolute-beginners-14207)

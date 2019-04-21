@@ -149,8 +149,10 @@
 #### Learning plan
 - [Barbarian meets coding](https://www.barbarianmeetscoding.com/blog/2015/03/15/on-how-i-passed-the-70-480-certification-exam/)
 
+#### Microsoft Learn
+[Build a simple website using HTML, CSS, and Javascript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
 
-#### Microsoft Virtual Academy material
+#### Microsoft Virtual Academy material (Lookout they are slowly getting replaced by Microsoft learn)
 - [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/html5-css3-fundamentals-development-for-absolute-beginners-14207)
 - [Developing in HTML5 with JavaScript and CSS3 Jump Start (Intermediate)](https://mva.microsoft.com/en-US/training-courses/developing-in-html5-with-javascript-and-css3-jump-start-8223?l=lCnp5kIy_5104984382)
 - [Create HTML5 Apps with jQuery Jump Start (Intermediate)](https://mva.microsoft.com/en-US/training-courses/create-html5-apps-with-jquery-jump-start-8429)

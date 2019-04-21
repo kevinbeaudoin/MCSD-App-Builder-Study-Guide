@@ -146,8 +146,6 @@
 - [Exam Prep Guide 2015](https://channel9.msdn.com/Blogs/mcpexamprep/70-480-Programming-in-HTML5-with-JavaScript-and-CSS3?term=70-480&lang-en=true)
 - [Exam Prep Guide 2015 #2](https://channel9.msdn.com/events/Ignite/2015/BRK3918?term=70-480&lang-en=true)
 
-
-
 #### Learning plan
 - [Barbarian meets coding](https://www.barbarianmeetscoding.com/blog/2015/03/15/on-how-i-passed-the-70-480-certification-exam/)
 

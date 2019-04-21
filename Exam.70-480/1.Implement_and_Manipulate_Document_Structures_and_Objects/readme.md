@@ -10,7 +10,7 @@
 
 ### Write code that interacts with UI controls.
   - Programmatically add and modify HTML elements
-    - [My Code sample](https://stackblitz.com/edit/70-480-find-add-modify-elements)
+    - [Code sample](https://stackblitz.com/edit/70-480-find-add-modify-elements)
     - [Css selector](https://www.w3schools.com/cssref/css_selectors.asp)
     - [Css selector sample](https://www.w3schools.com/cssref/trysel.asp)
   - Implement media controls
@@ -18,16 +18,16 @@
     - [Example on JsFiddle](http://jsfiddle.net/vintharas/n8xwdfcd/)
     - [Using HTML5 Audio and Video](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
     - [Dive Into HTML5: Video on the Web](http://diveintohtml5.info/video.html)
-    - [My Code Sample](https://stackblitz.com/edit/70-480-media-controls)
+    - [Code Sample](https://stackblitz.com/edit/70-480-media-controls)
   - Implement HTML5 canvas 
     - [Dive Into HTML5: Canvas](http://diveintohtml5.info/canvas.html)
     - [Canvas API at MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
-    - [My code sample](https://stackblitz.com/edit/70-480-canvas)
+    - [Code Sample](https://stackblitz.com/edit/70-480-canvas)
   - Implement SVG graphics
     - [Using SVG at CSS-Tricks](https://css-tricks.com/using-svg/)
     - [SVG at MDN](https://developer.mozilla.org/en/docs/Web/SVG)
     - [An example of SVG in JsFiddle](http://jsfiddle.net/vintharas/0m9raoj4/)
-    - [My code sample](https://stackblitz.com/edit/70-480-svg)
+    - [Code Sample](https://stackblitz.com/edit/70-480-svg)
 
 ### Apply styling to HTML elements programmatically
   - Change the location of an element

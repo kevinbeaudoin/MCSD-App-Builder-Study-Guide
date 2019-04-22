@@ -155,5 +155,6 @@
 #### Microsoft Virtual Academy material (Lookout they are slowly getting replaced by Microsoft learn)
 - [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/html5-css3-fundamentals-development-for-absolute-beginners-14207)
 - [Developing in HTML5 with JavaScript and CSS3 Jump Start (Intermediate)](https://mva.microsoft.com/en-US/training-courses/developing-in-html5-with-javascript-and-css3-jump-start-8223?l=lCnp5kIy_5104984382)
-- [Create HTML5 Apps with jQuery Jump Start (Intermediate)](https://mva.microsoft.com/en-US/training-courses/create-html5-apps-with-jquery-jump-start-8429)
-- [JavaScript for Experienced Developers (Intermediate)](https://mva.microsoft.com/en-US/training-courses/javascript-for-experienced-developers-14430)
+- [Introduction to JQuery](https://channel9.msdn.com/Series/Introduction-to-jQuery)
+- [JavaScript for Experienced Developers (Intermediate)](https://www.youtube.com/watch?v=h50lRx3Myfo) / [Code](https://github.com/MicrosoftLearning/JavaScript-Experienced-Developers)
+- [JavaScript Fundamentals (beginners)](https://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners)

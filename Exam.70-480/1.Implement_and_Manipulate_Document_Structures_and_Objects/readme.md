@@ -31,11 +31,15 @@
 
 ### Apply styling to HTML elements programmatically
   - Change the location of an element
+    - [Code Sample](https://stackblitz.com/edit/70-480-element-location)
   - Apply a transform
+    - [Code Sample](https://stackblitz.com/edit/70-480-apply-transform)
   - Show and hide elements
+    - [Code Sample](https://stackblitz.com/edit/70-480-element-visibility)
 
 ### Implement HTML5 APIs
   - Implement storage APIs
+    - [Code Sample](https://stackblitz.com/edit/70-480-web-storage)
     - [Dive into HTML5 Storage](http://diveintohtml5.info/storage.html) 
     - [Web Storage API at MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
     - [Demo with LocalStorage](http://www.barbarianmeetscoding.com/barbaric-basics-web-development/iwrite-dist/index.html)

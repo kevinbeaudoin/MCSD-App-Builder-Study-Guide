@@ -143,18 +143,19 @@
 ### Generic resources for the exam:
 
 #### Exam Prep Guides
-- [Exam Prep Guide 2015](https://channel9.msdn.com/Blogs/mcpexamprep/70-480-Programming-in-HTML5-with-JavaScript-and-CSS3?term=70-480&lang-en=true)  | &#9733;&#9733;&#9733;&#9733;&#9734;
-- [Exam Prep Guide 2015 #2](https://channel9.msdn.com/events/Ignite/2015/BRK3918?term=70-480&lang-en=true)  | &#9733;&#9733;&#9733;&#9734;&#9734;
+- [Exam Prep Guide 2015](https://channel9.msdn.com/Blogs/mcpexamprep/70-480-Programming-in-HTML5-with-JavaScript-and-CSS3?term=70-480&lang-en=true)  | ★★★★☆
+- [Exam Prep Guide 2015 #2](https://channel9.msdn.com/events/Ignite/2015/BRK3918?term=70-480&lang-en=true)  | ★★★☆☆
 
 #### Learning plan
-- [Barbarian meets coding](https://www.barbarianmeetscoding.com/blog/2015/03/15/on-how-i-passed-the-70-480-certification-exam/) | &#9733;&#9733;&#9733;&#9733;&#9733;
+- [Barbarian meets coding](https://www.barbarianmeetscoding.com/blog/2015/03/15/on-how-i-passed-the-70-480-certification-exam/) | ★★★★★
 
 #### Microsoft Learn
-[Build a simple website using HTML, CSS, and Javascript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)  | &#9733;&#9734;&#9734;&#9734;&#9734;
+[Build a simple website using HTML, CSS, and Javascript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)  | ★☆☆☆☆
 
 #### Microsoft Virtual Academy material (Lookout they are slowly getting replaced by Microsoft learn)
 - [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/html5-css3-fundamentals-development-for-absolute-beginners-14207)
-- [Developing in HTML5 with JavaScript and CSS3 Jump Start (Intermediate)](https://mva.microsoft.com/en-US/training-courses/developing-in-html5-with-javascript-and-css3-jump-start-8223?l=lCnp5kIy_5104984382)
+- [Developing in HTML5 with JavaScript and CSS3 Jump Start (Intermediate)](https://mva.microsoft.com/en-US/training-courses/developing-in-html5-with-javascript-and-css3-jump-start-8223?l=lCnp5kIy_5104984382) | ★★★★☆
+    - This is a training session to prepare for microsoft certification exams 70-480.
 - [Introduction to JQuery](https://channel9.msdn.com/Series/Introduction-to-jQuery)
 - [JavaScript for Experienced Developers (Intermediate)](https://www.youtube.com/watch?v=h50lRx3Myfo) / [Code](https://github.com/MicrosoftLearning/JavaScript-Experienced-Developers)
 - [JavaScript Fundamentals (beginners)](https://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners)

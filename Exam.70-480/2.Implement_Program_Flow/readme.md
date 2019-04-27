@@ -45,8 +45,9 @@
   - register an event listener for the web worker
   - limitations of a web worker
     - [Barbaric Basics: Web Workers](http://www.barbarianmeetscoding.com/blog/2015/02/13/barbaric-basics-web-workers/)
-    - [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics/)
-    - [Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/basic_usage)
+    - [HTML5 Rocks: The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics/)
+    - [Mozilla: Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/basic_usage)
+    - [Flavio Copes: Web Worker guide](https://medium.freecodecamp.org/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16)
 
 
 
@@ -57,7 +58,8 @@
 
 
 ## Others
-[Eloquent Javascript](http://eloquentjavascript.net/)
-[You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-[Introduction to jQuery](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-jquery)
-[jQuery kearning portal](http://learn.jquery.com/using-jquery-core/)
+- [Eloquent Javascript](http://eloquentjavascript.net/)
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS) | ★★★★★
+- [Introduction to jQuery](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-jquery)
+- [jQuery learning portal](http://learn.jquery.com/using-jquery-core/)
+- [Flavio Copes: JS Handbook](https://jshandbook.com/)

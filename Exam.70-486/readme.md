@@ -260,4 +260,42 @@
 
 
 ### Exam Updates
-- [Recent Changes to the exam](http://download.microsoft.com/download/B/9/0/B90D2531-48F3-4285-9D70-212FA2CB6192/486_OD_Changes.pdf)
+- [Recent Changes to the exam](http://download.microsoft.com/download/B/9/0/B90D2531-48F3-4285-9D70-212FA2CB6192/486_OD_Changes.pdf)  
+	* this changes frequently make sure you have a look once in a while if studying for a while.
+
+### Extra resources to help prepare for the exam:
+
+#### ASP.NET Learning material
+
+- Microsoft as a web site dedicated to [learning ASP.Net](https://dotnet.microsoft.com/learn/web)
+
+### Microsoft learn
+
+- Microsoft also launched a new site dedicated to learning with some Azure and [ASP.Net material](https://docs.microsoft.com/en-us/learn/browse/?roles=developer&term=asp.net). Might worth a look...
+
+
+#### Pluralsight
+
+- Pluralsight as a great course on [ASP.Net](https://app.pluralsight.com/library/courses/aspnet-core-fundamentals/table-of-contents) by Scott Allen.  The course is updated regularly. | ★★★★★
+
+- Repository of Pluralsight training from Microsoft [here](https://docs.microsoft.com/en-us/aspnet/mvc/pluralsight)
+
+#### Channel 9 
+- [Asp.net 4-4.5 jump start](https://channel9.msdn.com/Series/Building-Web-Apps-with-ASP-NET-Jump-Start)
+
+#### Youtube series from Kudvenkat 
+- [ASP.Net core tutorial for beginner](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU)
+- [ASP.Net web.api for beginner](https://www.youtube.com/playlist?list=PL6n9fhu94yhW7yoUOGNOfHurUE6bpOO2b)
+- [ASP.net 4 tutorial for beginner](https://www.youtube.com/playlist?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v)
+
+#### New book reference ?
+
+- Official exam ref book is very outdated and Microsoft does not recommend it anymore.  They now recommend this book [ASP.NET Core Application Development: Building an application in four sprints](https://www.microsoftpressstore.com/store/asp.net-core-application-development-building-an-application-9781509304066)  But since this book was written in 2016, not quite sure it is still up to date.
+
+#### Blogs
+
+- As for exam 70-480, there is some good information on babarian meets coding blog about [asp.net certification notes](https://www.barbarianmeetscoding.com/wiki/asp-net-mvc/asp-net-mvc-certification/).  Just make sure you double check what is still valid with latest exam changes.
+
+- You can also find some helpful material on [failed turing blog](http://failedturing.blogspot.com/2016/05/microsoft-exam-70-486-study-guide.html) but once again keep in mind it was written in 2016
+
+

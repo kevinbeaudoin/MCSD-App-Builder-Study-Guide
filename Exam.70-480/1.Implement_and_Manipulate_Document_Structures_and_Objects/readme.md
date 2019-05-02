@@ -44,6 +44,7 @@
     - [Web Storage API at MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
     - [Demo with LocalStorage](http://www.barbarianmeetscoding.com/barbaric-basics-web-development/iwrite-dist/index.html)
   - Implement Geolocation API
+    - [Code Sample](https://stackblitz.com/edit/70-480-geolocation)
     - [Barbarian Meets Coding Wiki: Geolocation](http://www.barbarianmeetscoding.com/wiki/geolocation/)
     - [Using Geolocation at MDN](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
     - [Dive Into HTML5: Geolocation](http://diveintohtml5.info/geolocation.html)

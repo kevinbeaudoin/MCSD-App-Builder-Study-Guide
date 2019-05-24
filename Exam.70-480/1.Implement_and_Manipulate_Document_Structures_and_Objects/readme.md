@@ -57,6 +57,7 @@
 
 ### Create and implement objects and methods
   - Implement native objects
+    - [Object Method Explorer](https://sdras.github.io/object-explorer/)
   - create custom objects and custom properties for native objects using prototypes and functions
   - inherit from an object
   - implement native methods and create custom methods

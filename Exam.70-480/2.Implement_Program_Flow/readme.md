@@ -2,6 +2,7 @@
 ## Material by topic
 ### Implement program flow
   - Iterate across collections and array items
+    - [Array Method Explorer](https://sdras.github.io/array-explorer/)
   - manage program decisions by using switch statements, if/then, and operators
   - evaluate expressions
 
